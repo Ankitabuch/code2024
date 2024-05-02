@@ -10,6 +10,6 @@ public class BankMain {
         td.printTDBankInfo();
 
         Scotia scotia = new Scotia(5000,500,15);
-       // scotia.printscotiaBankInfo();
+       scotia.printscotiaBankInfo();
     }
 }*/

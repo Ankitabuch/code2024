@@ -5,7 +5,7 @@ public class Scotia extends BankOfCanada {
     int fees;
 
     public Scotia(int minimumDeposit, int fees, int mortgateRate){
-        super(mortgateRate);
+        super.mortgateRate;
         this.minimumDeposit = minimumDeposit;
         this.fees = fees;
     }

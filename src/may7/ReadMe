@@ -1,0 +1,17 @@
+Collections : framework to manipulate Objects
+
+
+
+Iterable
+|
+Collection
+
+List
+Set
+Map
+Queue
+
+List ----> ArrayList and LinkedList
+
+Search intensive - arraylist , indexes
+LinkedList ? ------> Singly, Doubly.
